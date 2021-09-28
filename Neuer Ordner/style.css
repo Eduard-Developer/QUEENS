@@ -1,0 +1,33 @@
+.change-color{
+    color:white;
+}
+.list-style-none{
+    list-style: none;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+.text-align-center{
+    text-align: center;
+}
+.low-opacity{
+    opacity: 0.25;
+}
+
+.Hero-section{
+    background-image: url(/images/pexels-pavel-danilyuk-7521205.jpg);
+    height: 50rem;
+    background-position: bottom;
+}
+.villain-section{
+    background-color: lightslategray;
+}
+body{
+    margin: 0px;
+    margin-top: 0px;
+}
+
